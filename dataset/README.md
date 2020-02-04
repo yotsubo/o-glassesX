@@ -24,8 +24,8 @@ dataset/
   +40_document
 ```
 # elf_cof2bin
-This script is a tool for making dataset and extracts a code segment from an object file.
-Arguments are the path of the folder where the object file exists and the folder of the output destination
+This script is a tool for making dataset and extracts code segments from object files.
+Arguments are the path of the folder where the object files exist and the folder of the output destination.
 
 ```
 > python3 elf_coff2bin.py [source code dirpath] [output dirpath]
